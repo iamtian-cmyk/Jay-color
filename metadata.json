@@ -1,0 +1,5 @@
+{
+  "name": "Artistic Color Sensitivity Challenge",
+  "description": "A web-based game for art students to test and improve their color perception by finding the odd color block in a grid.",
+  "requestFramePermissions": []
+}
